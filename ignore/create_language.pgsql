@@ -1,0 +1,2 @@
+DROP LANGUAGE plpgsql;
+CREATE LANGUAGE plpgsql;
