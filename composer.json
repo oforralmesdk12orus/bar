@@ -1,6 +1,6 @@
 {
     "name": "bar/bar-bundle",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "Bar Bundle",
     "autoload": {
         "psr-0": { "": "src/" }
     },
